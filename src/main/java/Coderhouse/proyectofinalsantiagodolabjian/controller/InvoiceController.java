@@ -1,12 +1,11 @@
 package Coderhouse.proyectofinalsantiagodolabjian.controller;
 
 
-import com.coderhouse.clase11.ApiRest.PostmanII.middleware.ResponseHandler;
-import com.coderhouse.clase11.ApiRest.PostmanII.model.Invoice;
-import com.coderhouse.clase11.ApiRest.PostmanII.model.InvoiceDTO;
-import com.coderhouse.clase11.ApiRest.PostmanII.model.InvoiceWithDetailsDTO;
-import com.coderhouse.clase11.ApiRest.PostmanII.model.RequestInvoice;
-import com.coderhouse.clase11.ApiRest.PostmanII.service.InvoiceService;
+import Coderhouse.proyectofinalsantiagodolabjian.middleware.ResponseHandler;
+import Coderhouse.proyectofinalsantiagodolabjian.model.InvoiceDTO;
+import Coderhouse.proyectofinalsantiagodolabjian.model.InvoiceWithDetailsDTO;
+import Coderhouse.proyectofinalsantiagodolabjian.model.RequestInvoice;
+import Coderhouse.proyectofinalsantiagodolabjian.servise.InvoiceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

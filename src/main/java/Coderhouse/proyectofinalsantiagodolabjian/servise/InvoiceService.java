@@ -3,7 +3,7 @@ package Coderhouse.proyectofinalsantiagodolabjian.servise;
 
 import Coderhouse.proyectofinalsantiagodolabjian.repository.ClientRepository;
 import Coderhouse.proyectofinalsantiagodolabjian.repository.InvoiceRepository;
-import com.coderhouse.clase11.ApiRest.PostmanII.model.*;
+import Coderhouse.proyectofinalsantiagodolabjian.model.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

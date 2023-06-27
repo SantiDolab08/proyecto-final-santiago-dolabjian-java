@@ -3,7 +3,6 @@ package Coderhouse.proyectofinalsantiagodolabjian.repository;
 
 
 import Coderhouse.proyectofinalsantiagodolabjian.model.Client;
-import com.coderhouse.clase11.ApiRest.PostmanII.model.InvoiceDTO;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

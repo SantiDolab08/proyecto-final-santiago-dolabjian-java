@@ -4,7 +4,7 @@ package Coderhouse.proyectofinalsantiagodolabjian.controller;
 
 import Coderhouse.proyectofinalsantiagodolabjian.middleware.ResponseHandler;
 import Coderhouse.proyectofinalsantiagodolabjian.model.Client;
-import com.coderhouse.clase11.ApiRest.PostmanII.service.ClientService;
+import Coderhouse.proyectofinalsantiagodolabjian.servise.ClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

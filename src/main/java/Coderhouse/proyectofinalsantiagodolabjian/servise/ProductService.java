@@ -2,8 +2,8 @@ package Coderhouse.proyectofinalsantiagodolabjian.servise;
 
 
 import Coderhouse.proyectofinalsantiagodolabjian.model.Product;
+import Coderhouse.proyectofinalsantiagodolabjian.model.RequestProductDetail;
 import Coderhouse.proyectofinalsantiagodolabjian.repository.ProductRepository;
-import com.coderhouse.clase11.ApiRest.PostmanII.model.RequestProductDetail;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

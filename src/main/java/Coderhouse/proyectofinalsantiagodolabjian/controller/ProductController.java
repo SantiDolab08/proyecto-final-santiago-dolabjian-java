@@ -3,7 +3,7 @@ package Coderhouse.proyectofinalsantiagodolabjian.controller;
 
 import Coderhouse.proyectofinalsantiagodolabjian.middleware.ResponseHandler;
 import Coderhouse.proyectofinalsantiagodolabjian.model.Product;
-import com.coderhouse.clase11.ApiRest.PostmanII.service.ProductService;
+import Coderhouse.proyectofinalsantiagodolabjian.servise.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
